@@ -11,8 +11,8 @@
 $$
 A\left(x,\ y\right)=
 \begin{cases}
-A_0, & \text{если } |x|≤\frac{w}{2} и |y|≤\frac{h}{2} \\
-0, & \text{иначе }
+A_0, & \text{если } |x|≤\frac{w}{2} \text{ и } |y|≤\frac{h}{2} \\
+0, & \text{иначе}
 \end{cases}
 $$
 
